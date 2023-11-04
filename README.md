@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-Game
-A rock, paper, scissors game made with Python
+# Info
+Just a simple rock, paper, scissors game I made using Python (btw hard mode isn't implemented)
